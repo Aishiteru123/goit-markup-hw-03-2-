@@ -1,0 +1,192 @@
+body {
+    color: #212121;
+    background-color: #e5e5ee;
+    font-family: Roboto;
+}
+
+a {
+    text-decoration: none;
+   }
+
+ul { list-style: none; }
+
+.logo-link {
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+
+.accentlogo {
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+
+.accentlogo2 {
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+
+.link-inline {
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.link-inline2 {
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+color: #757575;
+}
+
+.link-inline3 {
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+
+
+.link-inline:hover,
+.link-inline:focus {
+    color: #2196F3;
+}
+
+.link-inline2:hover,
+.link-inline2:focus {
+    color: #2196F3;
+}
+
+.link-inline3:hover,
+.link-inline3:focus {
+    color: #2196F3;
+}
+
+.main-logo {
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.4;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+text-align: left;
+color: #FFFFFF;
+}
+
+.button1 {
+    font-family: Roboto;
+color: #FFFFFF;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 1.9;
+cursor: pointer;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.button2 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.6;
+cursor: pointer;
+background: #F5F4FA;
+border-radius: 4px;
+}
+
+.button2:hover,
+.button2:focus {
+    background: #2196F3;
+}
+
+.main-zag {
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.1;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+
+.main-par {
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.main-zag-2 {
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1.2;
+text-align: left;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.name {
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.2;
+text-align: left;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.prof {
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.2;
+text-align: left;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.name2 {
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121; 
+}
+
+.prof2 {
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.9;
+letter-spacing: 0.03em;
+color: #757575;
+}
